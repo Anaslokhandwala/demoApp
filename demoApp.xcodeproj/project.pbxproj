@@ -13,7 +13,7 @@
 		1E2F9E1C2BF8C1940039AAA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E2F9E1A2BF8C1940039AAA4 /* Main.storyboard */; };
 		1E2F9E1E2BF8C1960039AAA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E2F9E1D2BF8C1960039AAA4 /* Assets.xcassets */; };
 		1E2F9E212BF8C1960039AAA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E2F9E1F2BF8C1960039AAA4 /* LaunchScreen.storyboard */; };
-		1E2F9E712BF8D87E0039AAA4 /* NetworkCustomSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E2F9E702BF8D87E0039AAA4 /* NetworkCustomSDK.xcframework */; };
+		1E2F9EC32BF8F6EA0039AAA4 /* NetworkCustom.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E2F9EC22BF8F6EA0039AAA4 /* NetworkCustom.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		1E2F9E1D2BF8C1960039AAA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E2F9E202BF8C1960039AAA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E2F9E222BF8C1960039AAA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1E2F9E702BF8D87E0039AAA4 /* NetworkCustomSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = NetworkCustomSDK.xcframework; sourceTree = "<group>"; };
+		1E2F9EC22BF8F6EA0039AAA4 /* NetworkCustom.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = NetworkCustom.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1E2F9E712BF8D87E0039AAA4 /* NetworkCustomSDK.xcframework in Frameworks */,
+				1E2F9EC32BF8F6EA0039AAA4 /* NetworkCustom.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,7 +43,7 @@
 		1E2F9E082BF8C1940039AAA4 = {
 			isa = PBXGroup;
 			children = (
-				1E2F9E702BF8D87E0039AAA4 /* NetworkCustomSDK.xcframework */,
+				1E2F9EC22BF8F6EA0039AAA4 /* NetworkCustom.xcframework */,
 				1E2F9E132BF8C1940039AAA4 /* demoApp */,
 				1E2F9E122BF8C1940039AAA4 /* Products */,
 			);
