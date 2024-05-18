@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NetworkCustom"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "NetworkCustom for Api Calling"
 
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "Anas" => "https://github.com/Anaslokhandwala" }
 
-  spec.source       = { :git => "https://github.com/Anaslokhandwala/demoApp.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/Anaslokhandwala/demoApp.git", :tag => "1.0.2" }
 
   spec.platform     = :ios, "12.0"
   spec.static_framework = true
